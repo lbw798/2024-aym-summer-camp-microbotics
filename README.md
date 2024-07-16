@@ -41,8 +41,8 @@ This course is designed to be a fun and engaging introduction to robotics for mi
 
 ## Day 1 Lab Detailed Guides
 * [Blinky Lab](https://docs.arduino.cc/built-in-examples/basics/Blink/)
-* [Olympic Ring Recall](https://projecthub.arduino.cc/ronbentley1/buttons-lights-game-dd66e1)
 * [Kahoot](https://create.kahoot.it/share/study-with-true-false-questions/932444ab-47de-4c4b-b68a-92ee5908be0a)
+* [Olympic Ring Recall](https://projecthub.arduino.cc/ronbentley1/buttons-lights-game-dd66e1)
 
 ## TA Guides
 * [Master Doc](https://docs.google.com/document/d/1VEn3odx9Lsw0g7s10jIWNV84klX9qzb7k7aU2YQoCtE/edit?usp=sharing)
