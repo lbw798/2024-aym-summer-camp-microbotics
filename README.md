@@ -47,6 +47,7 @@ This course is designed to be a fun and engaging introduction to robotics for mi
 ## Day 2 Links
 * [Olympic Ring Recall](https://projecthub.arduino.cc/ronbentley1/buttons-lights-game-dd66e1)
 * [Move Assembly](https://docs.google.com/document/d/1LXGKjgsHB11Z9xCddMpEz6m9vEMAzMEUCbTDNuVmT1A/edit?usp=sharing)
+* [Kahoot](https://create.kahoot.it/details/721dcb81-bcd3-4472-b2c7-92dc3aac4263)
 
 ## TA Guides
 * [Master Doc](https://docs.google.com/document/d/1VEn3odx9Lsw0g7s10jIWNV84klX9qzb7k7aU2YQoCtE/edit?usp=sharing)
