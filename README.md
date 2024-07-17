@@ -50,5 +50,5 @@ This course is designed to be a fun and engaging introduction to robotics for mi
 
 ## TA Guides
 * [Master Doc](https://docs.google.com/document/d/1VEn3odx9Lsw0g7s10jIWNV84klX9qzb7k7aU2YQoCtE/edit?usp=sharing)
-* [Assembling Arduino Smart Car]([https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_project.html](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html))
-* [Move Arduino Smart Car](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_move.html)
+* [Assembling Arduino Smart Car Guide](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html)
+* [Move Arduino Smart Car Guide](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_move.html)
