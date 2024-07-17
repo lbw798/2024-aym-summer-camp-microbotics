@@ -39,10 +39,16 @@ This course is designed to be a fun and engaging introduction to robotics for mi
 
 **Happy Tinkering!**
 
-## Day 1 Lab Detailed Guides
+## Day 1 Links
 * [Blinky Lab](https://docs.arduino.cc/built-in-examples/basics/Blink/)
 * [Kahoot](https://create.kahoot.it/share/study-with-true-false-questions/932444ab-47de-4c4b-b68a-92ee5908be0a)
 * [Olympic Ring Recall](https://projecthub.arduino.cc/ronbentley1/buttons-lights-game-dd66e1)
 
+## Day 2 Links
+* [Olympic Ring Recall](https://projecthub.arduino.cc/ronbentley1/buttons-lights-game-dd66e1)
+* [Move Assembly](https://docs.google.com/document/d/1LXGKjgsHB11Z9xCddMpEz6m9vEMAzMEUCbTDNuVmT1A/edit?usp=sharing)
+
 ## TA Guides
 * [Master Doc](https://docs.google.com/document/d/1VEn3odx9Lsw0g7s10jIWNV84klX9qzb7k7aU2YQoCtE/edit?usp=sharing)
+* [Assembling Arduino Smart Car]([https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_project.html](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html))
+* [Move Arduino Smart Car](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_move.html)
