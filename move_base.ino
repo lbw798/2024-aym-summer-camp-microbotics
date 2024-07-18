@@ -9,6 +9,7 @@ const int A_1A = 6;
 const int B_1B = 9;
 const int B_1A = 10;
 
+// Pin Assignmenets
 void setup() {
   pinMode(A_1B, OUTPUT);
   pinMode(A_1A, OUTPUT);
@@ -39,6 +40,7 @@ void loop() {
   delay(500);
 }
 
+// Move Functions
 void moveForward() {
   digitalWrite(A_1B, LOW);
   digitalWrite(A_1A, HIGH);
