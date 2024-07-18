@@ -40,7 +40,7 @@ void loop() {
   slowDown(speed); // Example
   delay(500); // Example
 
-  speed = 255 // Example
+  speed = 255; // Example
   moveBackward(speed); // Example
   delay(500); // Example
 
