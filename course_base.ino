@@ -51,7 +51,7 @@ void loop() {
   delay(500); // Example
   
   // Do not touch this stopMove part
-  int speed = 150; // DO NOT TOUCH
+  speed = 150; // DO NOT TOUCH
   stopMove(speed); // DO NOT TOUCH
   delay(1000); // DO NOT TOUCH
 }
