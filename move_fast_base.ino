@@ -31,6 +31,7 @@ void loop() {
     moveForward(i);
     delay(500);
   }
+  // 3. Add code to make your car return to starting position
 }
 
 // Move Functions
@@ -43,4 +44,4 @@ void moveForward(int speed) {
   analogWrite(B_1A, 0);
 }
 
-// 3. Check answers with your continent's TA
+// 4. Check answers with your continent's TA
