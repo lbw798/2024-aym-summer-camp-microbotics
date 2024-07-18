@@ -54,4 +54,3 @@ void moveBackward(int speed) {
   analogWrite(B_1B, 0);
   analogWrite(B_1A, speed);
 }
-// 3. Check answers with your continent's TA
