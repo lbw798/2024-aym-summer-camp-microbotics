@@ -1,9 +1,9 @@
 /*
-Move Fast Template from Sunfounder Documentation
+Course Template from Sunfounder Documentation
 
 https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_move_by_code.html
 
-Challenge: complete numbered tasks in file
+Modify to complete the courses
 */
 
 // Pin Assignments
@@ -26,13 +26,34 @@ void setup() {
 // - You may need to change your speed before each step, so keep in mind that the minimum speed
 //  is 0 and the max speed is 255
 void loop() {
-  int speed = 150;
-  stopMove(speed);
-  delay(1000);
+  // Do not touch this stopMove part
+  int speed = 150; // DO NOT TOUCH
+  stopMove(speed); // DO NOT TOUCH
+  delay(1000); // DO NOT TOUCH
 
-  speed = 155; //
-  stopMove(speed);
-  delay(1000);
+  // Start making changes here:
+  // - Replace any of the example instructions below
+  // - Do Not replace the last stopMove part
+  moveForward(speed); // Example
+  delay(1000); // Example
+
+  slowDown(speed); // Example
+  delay(500); // Example
+
+  speed = 255 // Example
+  moveBackward(speed); // Example
+  delay(500); // Example
+
+  moveLeft(speed); // Example
+  delay(500); // Example
+
+  moveRight(speed); // Example
+  delay(500); // Example
+  
+  // Do not touch this stopMove part
+  int speed = 150; // DO NOT TOUCH
+  stopMove(speed); // DO NOT TOUCH
+  delay(1000); // DO NOT TOUCH
 }
 
 // Car Functions
@@ -43,6 +64,7 @@ void moveForward(int speed) {
   analogWrite(B_1A, 0);
 }
 
+// Do not touch below this part unless you know what you are doing
 void slowDown(int speed) {
   for(int i=speed;i>=0;i-=5){
     moveForward(i);
