@@ -49,7 +49,8 @@ This course is designed to be a fun and engaging introduction to robotics for mi
 * [Move Assembly](https://docs.google.com/document/d/1LXGKjgsHB11Z9xCddMpEz6m9vEMAzMEUCbTDNuVmT1A/edit?usp=sharing)
 * [Kahoot](https://create.kahoot.it/details/721dcb81-bcd3-4472-b2c7-92dc3aac4263)
 
+## Day 3 Links
+* [Move Assembly](https://docs.google.com/document/d/1LXGKjgsHB11Z9xCddMpEz6m9vEMAzMEUCbTDNuVmT1A/edit?usp=sharing)
+
 ## TA Guides
 * [Master Doc](https://docs.google.com/document/d/1VEn3odx9Lsw0g7s10jIWNV84klX9qzb7k7aU2YQoCtE/edit?usp=sharing)
-* [Assembling Arduino Smart Car Guide](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html)
-* [Move Arduino Smart Car Guide](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_move.html)
