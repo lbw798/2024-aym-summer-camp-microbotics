@@ -52,5 +52,18 @@ This course is designed to be a fun and engaging introduction to robotics for mi
 ## Day 3 Links
 * [Move Assembly](https://docs.google.com/document/d/1LXGKjgsHB11Z9xCddMpEz6m9vEMAzMEUCbTDNuVmT1A/edit?usp=sharing)
 
+## Day 4 Links
+### Trouble Shooting
+- if your car is not driving straight, the [motor calibration test](https://github.com/lbw798/2024-aym-summer-camp-microbotics/blob/main/motor_calibration_test.ino) to get your offset percentages
+### Mod Guides
+* [Follow the Line](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_line_track.html)
+* [Obstacle Avoidance](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_ir_obstacle.html)
+* [Ultrasonic Module](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_ultrasonic.html)
+* [Follw Your Hand](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_following.html)
+  * Pre-Req: [Obstacle Avoidance](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_ir_obstacle.html) and [Ultrasonic Module](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_ultrasonic.html)
+* [Self-Driving Car](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_auto.html)
+  * Pre-Req: [Obstacle Avoidance](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_ir_obstacle.html) and [Ultrasonic Module](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_ultrasonic.html)
+* [Remote Control Car](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_remote_control.html)
+
 ## TA Guides
 * [Master Doc](https://docs.google.com/document/d/1VEn3odx9Lsw0g7s10jIWNV84klX9qzb7k7aU2YQoCtE/edit?usp=sharing)
