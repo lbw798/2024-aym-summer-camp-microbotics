@@ -56,6 +56,7 @@ This course is designed to be a fun and engaging introduction to robotics for mi
 ### Trouble Shooting
 - if your car is not driving straight, the [motor calibration test](https://github.com/lbw798/2024-aym-summer-camp-microbotics/blob/main/motor_calibration_test.ino) to get your offset percentages
 ### Mod Guides
+* [Adding new components](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_assemble.html): find how to attach the new sensors here
 * [Follow the Line](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_line_track.html)
 * [Obstacle Avoidance](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_ir_obstacle.html)
 * [Ultrasonic Module](https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/car_project/car_ultrasonic.html)
