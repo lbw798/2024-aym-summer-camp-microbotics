@@ -40,7 +40,7 @@ This course is designed to be a fun and engaging introduction to robotics for mi
 **Happy Tinkering!**
 
 ## Summer Camp Rewind Links
-* [Overview Doc]()
+* [Overview Doc](https://docs.google.com/document/d/1uouwBsf0JGo3Or8k9uY94qd05WQeqiMITrhiRPJHXXM/edit?usp=sharing)
 * [Car Projects](https://docs.sunfounder.com/projects/3in1-kit/en/latest/car_project/car_project.html)
 * [IOT Projects](https://docs.sunfounder.com/projects/3in1-kit/en/latest/iot_project/iot_project.html)
 * [3 in 1 IoT/Smart Car/Learning Kit Projects](https://docs.sunfounder.com/projects/3in1-kit/en/latest/)
